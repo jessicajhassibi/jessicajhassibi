@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jessicajhassibi
-- 🌱 I try to improve everyday in the fields of Machine Learning, NLP and Software Development.
-- :sparkling_heart: I enjoy gardening, playing violin and piano, and spending time with my family and friends
+- 🌱 I'm always trying to improve in the fields of Machine Learning, NLP and Software Development.
+- :sparkling_heart: I enjoy playing violin and piano
+- 👨‍👩‍👦‍👦 Currently on parental leave (although I get to code and study sometimes)
 - 📫 Feel free to reach out to me: j.j.hassibi@gmail.com
