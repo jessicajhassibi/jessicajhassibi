@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jessicajhassibi
 - 🌱 I am passionate about AI, NLP, and Software Development.
-- :sparkling_heart: I enjoy playing violin, piano, and being with my family
-- 📫 Feel free to reach out to me: j.j.hassibi@gmail.com
+- :sparkling_heart: I enjoy classical music and trips with my family.
+-  📫 Feel free to reach out to me: j.j.hassibi@gmail.com
